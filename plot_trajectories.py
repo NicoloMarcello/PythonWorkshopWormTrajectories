@@ -8,9 +8,9 @@ import numpy as np
 
 # File paths for the 3 conditions
 filepaths = {
-    "mock conditioned": "Chemotaxis-Data-and-Analysis/Mock_worms/chemotaxis_mock_210825_3_20250722_161220/metadata_featuresN_oneworm.hdf5",
-    "aversively conditioned": "Chemotaxis-Data-and-Analysis/Aversive_worms/chemotaxis_avsv_24_1_23_01_20240124_140022/metadata_featuresN_oneworm.hdf5",
-    "sexually conditioned": "Chemotaxis-Data-and-Analysis/sexually_conditioned_worms/chemotaxis_sexc_24_1_26_09_20240126_143858/metadata_featuresN_oneworm.hdf5",
+    "mock conditioned": "WormChemotaxis/Mock_worms/chemotaxis_mock_210825_3_20250722_161220/metadata_featuresN_oneworm.hdf5",
+    "aversively conditioned": "WormChemotaxis/Aversive_worms/chemotaxis_avsv_24_1_23_01_20240124_140022/metadata_featuresN_oneworm.hdf5",
+    "sexually conditioned": "WormChemotaxis/sexually_conditioned_worms/chemotaxis_sexc_24_1_26_09_20240126_143858/metadata_featuresN_oneworm.hdf5",
 }
 
 # Check if files exist
